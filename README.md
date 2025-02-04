@@ -1,0 +1,1 @@
+# magepow-layerednav
